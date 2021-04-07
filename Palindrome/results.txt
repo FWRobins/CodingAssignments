@@ -1,0 +1,4 @@
+My results:
+Total NoPLHIV: 6409903
+Total NoPLHIV lower estimate: 4235478
+Total NoPLHIV upper estimate: 8589210Average in Xhariep: 12247.5Average in Xhariep lower estimate: 9458.5Average in Xhariep upper estimate: 15310.0Cities and Metros total by survey: 1277484Cities and Metros total by Fay-Harriot: 1295249
